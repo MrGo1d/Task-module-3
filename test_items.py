@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 
 
 """
-    Hi, dear review! 
+    Hi, dear reviewer! 
     Test-case must work with different browsers (chrome or firefox) and differen languages! 
     The assert must work too.
 
